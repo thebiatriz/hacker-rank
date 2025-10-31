@@ -4,6 +4,13 @@ import (
 	"fmt"
 )
 
+/*
+ * Complete the 'gradingStudents' function below.
+ *
+ * The function is expected to return an INTEGER_ARRAY.
+ * The function accepts INTEGER_ARRAY grades as parameter.
+ */
+
 func birthdayCakeCandles(candles []int32) int32 {
 	// Write your code here
 	var maxValue int32
